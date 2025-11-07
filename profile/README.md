@@ -1,7 +1,6 @@
 # ORDIRA
-Ordira is a B2B decentralized manufacturing platform powered by blockchain-based consensus mechanisms. Our mission is to optimize production flows, reduce overproduction of physical goods, and align manufacturing with real demand signals.
-
-By combining smart contracts, tokenized voting, and modular SaaS workflows, Ordira creates a transparent bridge between brands and manufacturers, ensuring that every production decision is backed by data integrity and community consensus.
+Ordira is a decentralized manufacturing platform that uses blockchain technology to bring trust and transparency to global production.
+Through on-chain voting, supply-chain tracking, and verifiable product certificates, we help brands, creators and manufacturers align production with real world demand and open up communications and transparency in the manufacturing process.
 
 Get started now at https://ordira.xyz
 
